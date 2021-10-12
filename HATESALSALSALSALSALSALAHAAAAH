@@ -1460,9 +1460,9 @@ end)
 
 FolderHS.Button("Banisher Infinity", "Execute", function()
 	if game.Players.LocalPlayer.Character:FindFirstChild("Shiba") then
-    	loadstring(game:HttpGet("https://raw.githubusercontent.com/GelatekWasTaken/asdasdfasfdfhgdfghfg/main/%F0%9F%98%82%F0%9F%98%82%F0%9F%A4%A3%F0%9F%A4%A3%F0%9F%A4%A3xdddfrosthookuser"))()
+    	loadstring(game:HttpGet("https://raw.githubusercontent.com/lusca122/DUBLADOR/main/defghijkmlitro"))()
     elseif workspace:FindFirstChild("Shiba") then
-    	loadstring(game:HttpGet("https://raw.githubusercontent.com/GelatekWasTaken/asdasdfasfdfhgdfghfg/main/ISAIDSTOPUSINGYOURFUCKINGTRASHYHTTPSPY.lua"))()
+    	loadstring(game:HttpGet("https://raw.githubusercontent.com/lusca122/NEDUBLADORN/main/cinco"))()
 	end	
 end)
 
